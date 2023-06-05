@@ -11,14 +11,16 @@
 
 ## 📝프로젝트 소개
 * ###### 메인페이지
-
+![스크린샷 2023-06-06 033016](https://github.com/806hyogi/Bluetooth_LED_Strip_using_Arduino/assets/101712060/e7a9838a-9179-418f-8aa6-c558bf4d3cd2)
 * ###### 서브페이지
-    ##### 📌웰컴라이트 기능 
+    ##### 📌시스템 구성도
+    ![그림1](https://github.com/806hyogi/Bluetooth_LED_Strip_using_Arduino/assets/101712060/d75c59c3-8bde-472f-b815-928f947f49ff)  ![그림2](https://github.com/806hyogi/Bluetooth_LED_Strip_using_Arduino/assets/101712060/eee8d241-87f7-480e-9a3f-69ab9a234a39)
     
     ##### 📌블루투스 모듈 컨트롤
-    
+    -readme.mp4 참조
 
 ## 📝라이브러리
 * ##### Adafruit_NeoPixel
 * ##### SoftwareSerial
+* ##### Arduino IDE
 
